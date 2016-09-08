@@ -1,0 +1,17 @@
+{
+  "name": "NodeJsApplication",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "Nelson",
+  "contributors": [],
+  "dependencies": {
+    "fs": "*",
+    "serialport": "^4.0.1"
+  }
+}
