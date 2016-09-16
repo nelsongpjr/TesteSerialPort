@@ -1,3 +1,4 @@
+
 //O programa envia, recebe, codifica, cria um buffer e descodifica
 var fs = require('fs');
 var SerialPort = require('serialport');
